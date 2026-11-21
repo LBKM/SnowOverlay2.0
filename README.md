@@ -2,6 +2,9 @@
 
 A lightweight Windows desktop overlay that makes snow fall over your screen and pile up into soft drifts on top of your open windows and the taskbar. Inspired by the "Snow for you" TikTok app.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e160df50-f635-4d1f-92ac-d12a8af4eb4f" />
+
+
 Built with C# / WPF on .NET 8. No third-party libraries, no bitmaps or sprites: every snowflake and drift is a vector shape.
 
 ## Features
